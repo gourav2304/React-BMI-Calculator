@@ -7,17 +7,19 @@ User Input: Users can enter their weight (in pounds) and height (in centimeters)
 BMI Calculation: The app calculates BMI using the formula:
 BMI
 =
-weight in kg
+weight in kg/
 (
 height in cm
-
+÷
+100
 )
 2
 BMI= 
-(height in cm) 
+(height in cm÷100) 
 2
  
-weight in lbs
+weight in kg
+​
 ​
  
 BMI Classification: Displays a message indicating whether the user is underweight, healthy weight, or overweight based on their BMI value.

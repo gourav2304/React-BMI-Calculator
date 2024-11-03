@@ -5,18 +5,7 @@ The BMI Calculator is a web application that allows users to calculate their Bod
 Features
 User Input: Users can enter their weight (in pounds) and height (in centimeters).
 BMI Calculation: The app calculates BMI using the formula:
-BMI
-=
-weight in kg/
-(
-height in cm
-÷
-100
-)
-2
-BMI= 
-(height in cm÷100) 
-2
+BMI = weight in kilograms divided by the square of height in meters.
  
 weight in kg
 ​

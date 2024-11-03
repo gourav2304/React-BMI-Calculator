@@ -1,4 +1,48 @@
-<h2>REACT -BMI -CALCULATOR</h2>
+<h1>BMI Calculator</h1>
+Description
+The BMI Calculator is a web application that allows users to calculate their Body Mass Index (BMI) based on their weight and height. It provides an easy-to-use interface for users to input their information and receive instant feedback on their BMI status. The application is built using React, making it a responsive and efficient tool for personal health monitoring.
+
+Features
+User Input: Users can enter their weight (in pounds) and height (in centimeters).
+BMI Calculation: The app calculates BMI using the formula:
+BMI
+=
+weight in lbs
+(
+height in cm
+÷
+100
+)
+2
+BMI= 
+(height in cm÷100) 
+2
+ 
+weight in lbs
+​
+ 
+BMI Classification: Displays a message indicating whether the user is underweight, healthy weight, or overweight based on their BMI value.
+Responsive Design: The app is optimized for use on both desktop and mobile devices.
+Technologies Used
+React: A JavaScript library for building user interfaces.
+CSS: For styling the application.
+JavaScript: For the functionality of the calculator.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Getting Started with Create React App
